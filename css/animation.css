@@ -14,8 +14,8 @@ h1, h2, .card, a { opacity: 0; }
 .ready h2 { animation: 0.5s reveal 0.5s ease-out forwards; }
 
 .ready #card1 { animation: 0.5s reveal 0.8s ease-in forwards; }
-/*
 .ready #card2 { animation: 0.5s reveal 0.9s ease-in forwards; }
+/*
 .ready #card3 { animation: 0.5s reveal 1.0s ease-in forwards; }
 .ready #card4 { animation: 0.5s reveal 1.1s ease-in forwards; }
 .ready #card5 { animation: 0.5s reveal 1.2s ease-in forwards; }
