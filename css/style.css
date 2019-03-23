@@ -29,7 +29,7 @@
 }
 
 body {
-  height: 100vh;
+  /*height: 100vh;*/
   background: black url("/img/1.jpg") center/cover no-repeat;
   background-attachment: fixed;
   color: black;
@@ -106,17 +106,18 @@ li {
 }
 
 .card {
-  background: rgba(255,255,255,0.4);
+  background: rgba(255,255,255,0.6);
   border-radius: 5px;
   padding: 14px;
   box-shadow: inset 0 4px 7px rgba(255,255,255,0.2);
   transition: all .4s;
 }
 
-.card:hover {
+/*.card:hover {
   transition: all .4s;
-  background: rgba(255,255,255,0.1);
-}
+  background: rgba(255,255,255,0.2);
+  color: rgba(255,255,255,1);
+}*/
 
 /* desktop */
 @media ( min-width : 768px ) {
